@@ -1,0 +1,16 @@
+Author: opa334 <opa334@protonmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Safari Plus
+Package: com.opa334.safariplus
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
+Section: Tweaks
+Installed-Size: 4622
+Version: 1.7.6
+Architecture: iphoneos-arm
+Description: Various enhancements to Safari!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPRootIcon@2x.png
