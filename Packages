@@ -1,0 +1,163 @@
+Author: opa334 <opa334@protonmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Safari Plus
+Package: com.opa334.safariplus
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
+Section: Tweaks
+Installed-Size: 4722
+Version: 1.7.7-2
+Architecture: iphoneos-arm
+Description: Various enhancements to Safari!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPRootIcon@2x.png
+
+Package: bz.jed.tweakcompatible
+Version: 0.1.5
+Section: iOS 12.4
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm
+Filename: debs2.0/tweakcompatible_0.1.5.deb
+Size: 54016
+Installed-Size: 292
+MD5sum: 0a90d6021ba05aa5f67c60274c8d69b7
+SHA256: d10cb06e4da3281ed89906ac84656996b98f52c98c743a22f303fcdad3297b7e
+Name: tweakCompatible
+Icon: file:///Library/PreferenceBundles/tweakCompatible_prefs.bundle/icon@2x.png
+Description: للتحقق من توافق ادوات السيديا
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: treAson <treasonftg@gmail.com>
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tweakcompatibleDp
+dev: jed
+homepage: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tweakcompatibleDp
+
+Package: com.arab-cydia.Boxyt3
+Version: 0.0.1-2
+Section: T3reb
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/3734.deb
+Size: 2100
+Installed-Size: 124
+Description: تعريب Boxy3
+Name: Boxy3 تعريب
+Author: ‏αвσ яαĸαη✨
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+Homepage: https://twitter.com/ArCydia_Team
+Website: https://www.Arab-Cydia.com/repo/
+Depiction: https://arab-cydia.com/repo/view/3734
+SileoDepiction: https://arab-cydia.com/repo/sileoview/3734
+MD5sum: a44302542d03dcd05ca5f9d2d8293322
+SHA1: e96039726be3263dcf45e9545252c5cece8ccdc2
+SHA256: 20488a9599622eca5223fd4dd506069124147ae2f37f4b192534ce3cd909adb9
+
+Package: com.ichitaso.powerselector11
+Section: Utilities
+Installed-Size: 1860
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.2.6
+Replaces: com.ichitaso.powerselector11
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Pre-Depends: firmware (>= 11.0)
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Filename: ./debs/com.ichitaso.powerselector11_1.2.6_iphoneos-arm.deb
+Size: 204154
+MD5sum: c00cc4066ef34eb5e3171025d98e9ca1
+SHA1: 8407b8619d3af49b34ee6b7b110ba626d8f62164
+SHA256: 0871d3222d1922530490e35c0085ca5d94a47837a952875ecaff543827337cde
+SHA512: 778e3222a10d4eaeb2cd650ac4f6656fa175dc1ac4e0b7b5b04edcf618668b552e503986aa8b5abd64bf8e0a69ce4d5e0b4dd72c9ac87863d51c74081a31413b
+Description: The power supply relation of a device is operated.
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Name: PowerSelector (iOS 11 to 13)
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.quickcc
+Section: Tweaks
+Installed-Size: 432
+Maintainer: ichitaso <willfeeltips+qcc@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.4
+Depends: firmware (>= 11.0), firmware (<< 13.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1)
+Filename: ./debs/com.ichitaso.quickcc_1.0.4_iphoneos-arm.deb
+Size: 60132
+MD5sum: dac315815d232423eeb6f7ea6d06eed3
+SHA1: afd3c4215612ae9fc6c6bf2109c2e84357dab935
+SHA256: 815df3bdb21c6d26f7fde8a542493c2b8579250cef41e093b165aad3b9671e8a
+SHA512: df4886b76471d17c9e658676d84d8a88b663029a70e325b89510765eb468b4411d78a65245986882a81e6ce3edc536e6b201d885328f2537d03b2a638c8440d5
+Description: Expands Wifi and Bluetooth connectivity in Control Center
+Author: ichitaso <willfeeltips+qcc@gmail.com>
+Name: QuickCC
+Depiction: https://cydia.ichitaso.com/depiction/quickcc.html
+Homepage: https://cydia.ichitaso.com/depiction/quickcc.html
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/QuickCCSettings.bundle/icon@2x.png
+
+Package: com.alex.tweakcount2
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), cydia (>= 1.1.19), preferenceloader
+Conflicts: com.alex.tweaksnumber
+Replaces: com.alex.tweaksnumber
+Architecture: iphoneos-arm
+Filename: deb/tweakcount2_1.0.1.deb
+Size: 26512
+Installed-Size: 220
+MD5sum: 1725d035b3a89250fb505b0577d37037
+SHA256: e7439440442033803ad2b3bd42b364a4e794cea2bbf21ffb358068dbd7773aa9
+Name: Tweak Count 2
+Icon: file:///Library/PreferenceBundles/TweakCount2.bundle/TweakCount2@2x.png
+Description: إضافة عدد للأدوات المثبتة في قائمة "مثبت" في السيديا
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Alexandre <Alexandre31.tweak@gmail.com>
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tweakcountDp
+dev: alexandre31
+homepage: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tweakcountDp
+
+Package: ru.rejail.prysm
+Section: Tweaks
+Installed-Size: 1823
+Maintainer: ReJail <rejail@rejail.ru>
+Architecture: iphoneos-arm
+Version: 1.4k
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Description: Редизайн пункта управления
+Name: Prysm
+Author: LaughingQuoll
+Depiction: https://rejail.ru/depiction.php?file=prysm
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=prysm
+
+Package: ru.rejail.bazzi
+Name: Bazzi Rus
+Version: 2.0.6
+Description: اظهار نسبة البطارية
+Author: Blake Boxberger
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1)
+Conflicts: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Installed-Size: 336
+Section: Tweaks
+Depiction: https://rejail.ru/depiction.php?file=bazzi
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=bazzi
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Size: 33976
+MD5Sum: af92e74da5725bf0b2263599a0e89b6f
+SHA1: 5d4d10f198a4b9bebd78a611357e3814d0392c43
+SHA256: e0edf27dfc6d92268b1b6751580120ca6750c2a064fb7b111c20f9610acd1420
+Filename: /deb/ru.rejail.bazzi_2.0.6_iphoneos-arm.deb
+Tag: purpose::extension, compatible::ios11, compatible::ios12
